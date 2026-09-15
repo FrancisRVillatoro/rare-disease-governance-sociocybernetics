@@ -1,6 +1,6 @@
 # Rare-disease governance socio-cybernetics — reproducibility code and data
 
-This repository contains executable Python code, frozen machine-readable numerical outputs, and reference figures supporting the computational reproducibility of the manuscript:
+This repository contains executable Python code and frozen machine-readable numerical outputs supporting the computational reproducibility of the manuscript:
 
 > **A socio-cybernetic architecture for rare-disease governance based on social systems theory**
 
@@ -31,7 +31,7 @@ This repository is prepared for the frozen reproducibility release **v1.0.0**.
 - `reproduce_all.py` — orchestration script for deterministic or full reproduction.
 - `verify_release.py` — compares regenerated JSON outputs with the frozen reference values.
 - `reference_results/` — frozen machine-readable numerical results.
-- `figures/` — frozen reference figures.
+- `figures16.py` regenerates the manuscript and Supplementary figures into a local `figures/` directory; figure binaries are intentionally not archived in this code-and-data repository.
 - `requirements.txt`, `requirements-lock.txt` — dependency specifications.
 - `VALIDATION.md` — validation protocol and interpretation.
 - `MANIFEST.md` — release inventory.
