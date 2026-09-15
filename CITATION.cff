@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the archived Zenodo software release."
+title: "Reproducibility code and data for A socio-cybernetic architecture for rare-disease governance based on social systems theory"
+type: software
+version: 1.0.0
+date-released: 2026-09-15
+authors:
+  - family-names: "Fernández-Vilas"
+    given-names: "Enrique"
+    orcid: "https://orcid.org/0000-0002-3107-6337"
+  - family-names: "Machado"
+    given-names: "Carolina Feliciana"
+    orcid: "https://orcid.org/0000-0002-9685-1576"
+  - family-names: "Esteban-Bueno"
+    given-names: "Gema"
+    orcid: "https://orcid.org/0000-0001-7554-9434"
+  - family-names: "Villatoro"
+    given-names: "Francisco R."
+    orcid: "https://orcid.org/0000-0003-4314-6213"
+  - family-names: "Fernández Martínez"
+    given-names: "Juan Luis"
+    orcid: "https://orcid.org/0000-0002-4758-2832"
+  - family-names: "Coca"
+    given-names: "Juan R."
+    orcid: "https://orcid.org/0000-0003-1140-7351"
+repository-code: "https://github.com/FrancisRVillatoro/rare-disease-governance-sociocybernetics"
+url: "https://github.com/FrancisRVillatoro/rare-disease-governance-sociocybernetics"
+license: MIT
+keywords:
+  - rare diseases
+  - socio-cybernetics
+  - distributed model predictive control
+  - generalized Nash equilibrium
+  - reproducibility
+abstract: >-
+  Python code and frozen numerical outputs supporting the
+  reproducibility of the stylised computational pilot associated with the
+  manuscript "A socio-cybernetic architecture for rare-disease governance based
+  on social systems theory". The repository does not contain the manuscript or
+  journal-submission files.

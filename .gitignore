@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.DS_Store
+*.log
+# Generated top-level outputs from reproduction runs; frozen references live in reference_results/ and figures/
+/v16_results_A.json
+/v16_results_B.json
+/v16_results_C.json
+/v16_mc.json
+/v16_mc_summary.json
