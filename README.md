@@ -1,0 +1,105 @@
+# Rare-disease governance socio-cybernetics — reproducibility code and data
+
+This repository contains executable Python code, frozen machine-readable numerical outputs, and reference figures supporting the computational reproducibility of the manuscript:
+
+> **A socio-cybernetic architecture for rare-disease governance based on social systems theory**
+
+## Manuscript authors
+
+- Enrique Fernández-Vilas — ORCID: https://orcid.org/0000-0002-3107-6337
+- Carolina Feliciana Machado — ORCID: https://orcid.org/0000-0002-9685-1576
+- Gema Esteban-Bueno — ORCID: https://orcid.org/0000-0001-7554-9434
+- Francisco R. Villatoro — ORCID: https://orcid.org/0000-0003-4314-6213
+- Juan Luis Fernández Martínez — ORCID: https://orcid.org/0000-0002-4758-2832
+- Juan R. Coca — ORCID: https://orcid.org/0000-0003-1140-7351
+
+The repository intentionally contains **no manuscript, Supplementary Material, reviewer-response document, or journal-submission file**.
+
+The software is a reproducibility object. It is **not** an empirically calibrated policy controller, causal evaluation, clinical decision-support system, or redistributive-equity model.
+
+## Release
+
+This repository is prepared for the frozen reproducibility release **v1.0.0**.
+
+## Contents
+
+- `pilot16.py` — model, local objectives, symmetric shadow-price coordination, and nominal runs.
+- `audit16.py` — comparators, deterministic sensitivities, initialisation/permutation tests, autonomous perturbation and long-horizon diagnostics.
+- `montecarlo16.py` — paired stochastic sensitivity with re-optimisation.
+- `summarize16.py` — percentile summary of the 100 stochastic runs.
+- `figures16.py` — regenerates the manuscript and supplementary figures from generated numerical outputs.
+- `reproduce_all.py` — orchestration script for deterministic or full reproduction.
+- `verify_release.py` — compares regenerated JSON outputs with the frozen reference values.
+- `reference_results/` — frozen machine-readable numerical results.
+- `figures/` — frozen reference figures.
+- `requirements.txt`, `requirements-lock.txt` — dependency specifications.
+- `VALIDATION.md` — validation protocol and interpretation.
+- `MANIFEST.md` — release inventory.
+- `SHA256SUMS.txt` — SHA-256 checksums for the frozen release contents.
+
+## Audited environment
+
+The archived calculations were performed with:
+
+- Python 3.12.3
+- NumPy 2.4.4
+- SciPy 1.17.1
+
+Matplotlib is required only for figure generation.
+
+## Reproduction
+
+Create an isolated Python environment and install the requirements. From the repository root:
+
+### Deterministic calculations
+
+```bash
+python reproduce_all.py --deterministic
+```
+
+### Full reproduction, including the 100 stochastic runs
+
+```bash
+python reproduce_all.py --full
+```
+
+The full workflow executes:
+
+```text
+pilot16.py
+→ audit16.py
+→ montecarlo16.py 0 100
+→ summarize16.py
+→ figures16.py
+→ verify_release.py
+```
+
+The Monte Carlo workflow is computationally heavier because both distributed controllers are re-optimised at every decision period in every replicate.
+
+## Stochastic reproducibility convention
+
+The frozen stochastic sample contains 100 paired replicates with seeds
+
+```text
+2026090600 + r,   r = 0,...,99.
+```
+
+Every replicate starts from the same frozen nominal `A_c`, `B_u`, and `delta`. Replicate-specific perturbations are applied independently and are **not** propagated between replicates. Within a replicate, the status quo and both distributed controllers use the same perturbed model and realised process-noise sequence.
+
+## Validation
+
+See `VALIDATION.md`. After regenerating the outputs, run:
+
+```bash
+python verify_release.py
+```
+
+The verifier compares generated JSON results with the frozen reference files using declared floating-point tolerances.
+
+## Citation
+
+See `CITATION.cff`. A Zenodo DOI will be assigned to the archived release; the repository metadata can be updated with the DOI after deposition.
+
+## License
+
+The original repository code and documentation are released under the MIT License. See `LICENSE`.
