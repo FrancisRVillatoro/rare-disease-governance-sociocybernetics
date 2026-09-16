@@ -19,7 +19,12 @@ The software is a reproducibility object. It is **not** an empirically calibrate
 
 ## Release
 
-This repository is prepared for the frozen reproducibility release **v1.0.0**.
+Frozen reproducibility release **v1.0.0** (16 September 2026):
+
+- Version DOI: https://doi.org/10.5281/zenodo.22787139
+- Concept DOI (all versions): https://doi.org/10.5281/zenodo.22787138
+
+The concept DOI always resolves to the latest archived version; cite the version DOI when referring specifically to v1.0.0.
 
 ## Contents
 
@@ -92,7 +97,7 @@ See `VALIDATION.md`. The full workflow verifies the regenerated deterministic JS
 
 ## Citation
 
-See `CITATION.cff`. A Zenodo DOI will be assigned to the archived release; the repository metadata can be updated with the DOI after deposition.
+For the archived v1.0.0 release, cite DOI **10.5281/zenodo.22787139**. For the evolving software record across all versions, use concept DOI **10.5281/zenodo.22787138**. See `CITATION.cff` for machine-readable citation metadata.
 
 ## License
 
