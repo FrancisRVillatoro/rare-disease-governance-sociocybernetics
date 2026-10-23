@@ -1,0 +1,155 @@
+{
+  "settings": {
+    "seed_base": 2026102000,
+    "horizon": 4,
+    "decision_periods": 36,
+    "scenarios": [
+      "plain",
+      "screen"
+    ],
+    "tests": [
+      "priced_box_unregularised",
+      "feasible_unilateral_unpriced"
+    ],
+    "multistarts": {
+      "incumbent": 1,
+      "midpoint": 1,
+      "all_box_vertices": 16,
+      "uniform_random": 8
+    },
+    "slsqp": {
+      "maxiter": 500,
+      "ftol": 1e-13,
+      "jac": "independent_analytic_forward_sensitivities"
+    },
+    "differential_evolution": {
+      "seeds_per_problem": 2,
+      "maxiter": 300,
+      "popsize": 12,
+      "tol": 1e-11,
+      "atol": 1e-13,
+      "mutation": [
+        0.5,
+        1.0
+      ],
+      "recombination": 0.7,
+      "strategy": "best1bin",
+      "init": "latinhypercube",
+      "polish": false,
+      "updating": "deferred",
+      "vectorized": true
+    },
+    "original_objective_slsqp_crosscheck": true,
+    "material_gain_flag_absolute": 1e-06,
+    "projected_stationarity_step": 1.0,
+    "feasible_incumbent": "proportional columnwise downward projection only in audit; original controls unchanged",
+    "scope": "all actors and all prediction horizons along the two nominal 36-period trajectories; no stochastic audit",
+    "equilibrium_claim": "no global optimality, uniqueness or exact variational equilibrium certified"
+  },
+  "environment": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  },
+  "runtime_seconds": 111.63984957299999,
+  "actor_period_cases": 432,
+  "problem_count": 864,
+  "scenarios": {
+    "plain": {
+      "cases": 216,
+      "raw_budget_violation_max": 0.0,
+      "raw_complementarity_max": 0.0,
+      "audit_projection_max": 0.0,
+      "priced": {
+        "gain_found_max": 1.9208787005453587e-08,
+        "relative_gain_found_max": 1.8880281449362712e-08,
+        "max_control_change_max": 2.3374918290627184e-05,
+        "projected_gradient_incumbent_max": 0.0007003164947591012,
+        "projected_gradient_at_best_found_max": 6.325324003464416e-08,
+        "multistart_objective_spread_max": 2.352701367058785e-13,
+        "objective_validation_max_abs_max": 1.7763568394002505e-15,
+        "gradient_validation_max_abs_max": 3.4397773518435315e-10,
+        "local_failures": 0,
+        "de_failures": 30,
+        "polish_failures": 0,
+        "fd_failures": 0,
+        "cases_above_material_gain_flag": 0,
+        "worst_gain_case": {
+          "t": 9,
+          "actor": "H",
+          "base": 1.0950971881468676,
+          "gain": 1.9208787005453587e-08
+        }
+      },
+      "feasible": {
+        "gain_found_max": 1.9208787005453587e-08,
+        "relative_gain_found_max": 1.8880281449362712e-08,
+        "max_control_change_max": 2.3374918290627184e-05,
+        "projected_gradient_incumbent_max": 0.0007003164947591012,
+        "projected_gradient_at_best_found_max": 7.862617575071784e-08,
+        "multistart_objective_spread_max": 2.352701367058785e-13,
+        "objective_validation_max_abs_max": 1.9984014443252818e-15,
+        "gradient_validation_max_abs_max": 3.4397773518435315e-10,
+        "local_failures": 0,
+        "de_failures": 29,
+        "polish_failures": 0,
+        "fd_failures": 0,
+        "cases_above_material_gain_flag": 0,
+        "worst_gain_case": {
+          "t": 9,
+          "actor": "H",
+          "base": 1.0950971881468676,
+          "gain": 1.9208787005453587e-08
+        }
+      }
+    },
+    "screen": {
+      "cases": 216,
+      "raw_budget_violation_max": 4.83459821870591e-07,
+      "raw_complementarity_max": 2.433511624016139e-06,
+      "audit_projection_max": 2.1487045481771716e-07,
+      "priced": {
+        "gain_found_max": 2.1373133707314196e-08,
+        "relative_gain_found_max": 1.8912821975192173e-08,
+        "max_control_change_max": 2.3149025466791956e-05,
+        "projected_gradient_incumbent_max": 0.0011804349719786722,
+        "projected_gradient_at_best_found_max": 1.3013576272147276e-07,
+        "multistart_objective_spread_max": 3.531397396727698e-12,
+        "objective_validation_max_abs_max": 2.1316282072803006e-14,
+        "gradient_validation_max_abs_max": 4.419902666086273e-09,
+        "local_failures": 0,
+        "de_failures": 67,
+        "polish_failures": 0,
+        "fd_failures": 0,
+        "cases_above_material_gain_flag": 0,
+        "worst_gain_case": {
+          "t": 7,
+          "actor": "H",
+          "base": 1.2264319932794558,
+          "gain": 2.1373133707314196e-08
+        }
+      },
+      "feasible": {
+        "gain_found_max": 1.5575415925894731e-06,
+        "relative_gain_found_max": 3.4412498998680056e-07,
+        "max_control_change_max": 2.3149025466791956e-05,
+        "projected_gradient_incumbent_max": 0.0011804349719786722,
+        "projected_gradient_at_best_found_max": 7.718373778997645e-08,
+        "multistart_objective_spread_max": 1.5827339439056232e-12,
+        "objective_validation_max_abs_max": 2.042810365310288e-14,
+        "gradient_validation_max_abs_max": 5.8563944804745915e-09,
+        "local_failures": 0,
+        "de_failures": 65,
+        "polish_failures": 0,
+        "fd_failures": 0,
+        "cases_above_material_gain_flag": 4,
+        "worst_gain_case": {
+          "t": 1,
+          "actor": "V",
+          "base": 4.642883733085961,
+          "gain": 1.5575415925894731e-06
+        }
+      }
+    }
+  }
+}

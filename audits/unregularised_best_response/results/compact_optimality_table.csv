@@ -1,0 +1,3 @@
+scenario,actor_period_cases,max_priced_gain_found,max_feasible_gain_found,max_priced_projected_gradient,max_raw_budget_violation,max_raw_complementarity,max_audit_projection
+plain,216,1.9208787005453587e-08,1.9208787005453587e-08,0.0007003164947591012,0.0,0.0,0.0
+screen,216,2.1373133707314196e-08,1.5575415925894731e-06,0.0011804349719786722,4.83459821870591e-07,2.433511624016139e-06,2.1487045481771716e-07

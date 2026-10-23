@@ -1,0 +1,47 @@
+{
+  "seed_base": 2026102000,
+  "horizon": 4,
+  "decision_periods": 36,
+  "scenarios": [
+    "plain",
+    "screen"
+  ],
+  "tests": [
+    "priced_box_unregularised",
+    "feasible_unilateral_unpriced"
+  ],
+  "multistarts": {
+    "incumbent": 1,
+    "midpoint": 1,
+    "all_box_vertices": 16,
+    "uniform_random": 8
+  },
+  "slsqp": {
+    "maxiter": 500,
+    "ftol": 1e-13,
+    "jac": "independent_analytic_forward_sensitivities"
+  },
+  "differential_evolution": {
+    "seeds_per_problem": 2,
+    "maxiter": 300,
+    "popsize": 12,
+    "tol": 1e-11,
+    "atol": 1e-13,
+    "mutation": [
+      0.5,
+      1.0
+    ],
+    "recombination": 0.7,
+    "strategy": "best1bin",
+    "init": "latinhypercube",
+    "polish": false,
+    "updating": "deferred",
+    "vectorized": true
+  },
+  "original_objective_slsqp_crosscheck": true,
+  "material_gain_flag_absolute": 1e-06,
+  "projected_stationarity_step": 1.0,
+  "feasible_incumbent": "proportional columnwise downward projection only in audit; original controls unchanged",
+  "scope": "all actors and all prediction horizons along the two nominal 36-period trajectories; no stochastic audit",
+  "equilibrium_claim": "no global optimality, uniqueness or exact variational equilibrium certified"
+}

@@ -1,0 +1,5541 @@
+[
+  {
+    "scenario": "plain",
+    "t": 18,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026130051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 368,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1476672716274212,
+    "solution": [
+      1.1844691893969639e-14,
+      9.576367476782366e-13,
+      2.8389790518446034e-13,
+      1.2728151865815107e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1476672716274212,
+    "polish_solution": [
+      1.1844691893969639e-14,
+      9.576367476782366e-13,
+      2.8389790518446034e-13,
+      1.2728151865815107e-12
+    ],
+    "previous_best": 0.1476672716273855,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 18,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026130051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 368,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1476672716274212,
+    "solution": [
+      1.1844691893969639e-14,
+      9.576367476782366e-13,
+      2.8389790518446034e-13,
+      1.2728151865815107e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1476672716274212,
+    "polish_solution": [
+      1.1844691893969639e-14,
+      9.576367476782366e-13,
+      2.8389790518446034e-13,
+      1.2728151865815107e-12
+    ],
+    "previous_best": 0.1476672716273855,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 18,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026130052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 322,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1476672716274567,
+    "solution": [
+      1.7901791160568337e-12,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.1476672716274567,
+    "polish_solution": [
+      1.7901791160568337e-12,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "previous_best": 0.1476672716273855,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 19,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026131050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 323,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1429289213644968,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.1429289213644968,
+    "polish_solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "previous_best": 0.14292892136442992,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 19,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026131052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 319,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1429289213644968,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.1429289213644968,
+    "polish_solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "previous_best": 0.14292892136442992,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 20,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026132050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 316,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13866246961712256,
+    "solution": [
+      7.006201174775128e-14,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      1.1744979988570492e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.13866246961712256,
+    "polish_solution": [
+      7.006201174775128e-14,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      1.1744979988570492e-12
+    ],
+    "previous_best": 0.13866246961705742,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 20,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026132052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 318,
+    "message": "Optimization terminated successfully.",
+    "value": 0.138662469617143,
+    "solution": [
+      7.687878111894975e-13,
+      5.720562912259197e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.138662469617143,
+    "polish_solution": [
+      7.687878111894975e-13,
+      5.720562912259197e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "previous_best": 0.13866246961705742,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 21,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026133050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 319,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13481914151234892,
+    "solution": [
+      1.5776963069313865e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      1.142350103400247e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.13481914151234892,
+    "polish_solution": [
+      1.5776963069313865e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      1.142350103400247e-13
+    ],
+    "previous_best": 0.13481914151228344,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 21,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026133052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 339,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13481914151238855,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.13481914151228344,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      2.7755575615628914e-17,
+      6.938893903907228e-18,
+      0.0
+    ],
+    "previous_best": 0.13481914151228344,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 22,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026134050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13135570155664095,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.13135570155651788,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      5.551115123125783e-17,
+      5.551115123125783e-17,
+      1.0408340855860843e-17
+    ],
+    "previous_best": 0.13135570155651788,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 22,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026134051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 334,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13135570155662593,
+    "solution": [
+      3.087252675726404e-13,
+      7.955927583402911e-13,
+      9.468190120820452e-13,
+      4.140993103973756e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.13135570155651788,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-18,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.13135570155651788,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 22,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026134051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 334,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13135570155662593,
+    "solution": [
+      3.087252675726404e-13,
+      7.955927583402911e-13,
+      9.468190120820452e-13,
+      4.140993103973756e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.13135570155651788,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-18,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.13135570155651788,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 23,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026135050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 337,
+    "message": "Optimization terminated successfully.",
+    "value": 0.128233749713897,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12823374971375667,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-18,
+      4.163336342344337e-17,
+      4.5102810375396984e-17
+    ],
+    "previous_best": 0.12823374971375667,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 23,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026135051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12823374971383483,
+    "solution": [
+      1.1582401704401946e-13,
+      1.0256309690426235e-12,
+      1.880440247958859e-15,
+      2.644620633596162e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12823374971383483,
+    "polish_solution": [
+      1.1582401704401946e-13,
+      1.0256309690426235e-12,
+      1.880440247958859e-15,
+      2.644620633596162e-13
+    ],
+    "previous_best": 0.12823374971375667,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 23,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026135051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12823374971383483,
+    "solution": [
+      1.1582401704401946e-13,
+      1.0256309690426235e-12,
+      1.880440247958859e-15,
+      2.644620633596162e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12823374971383483,
+    "polish_solution": [
+      1.1582401704401946e-13,
+      1.0256309690426235e-12,
+      1.880440247958859e-15,
+      2.644620633596162e-13
+    ],
+    "previous_best": 0.12823374971375667,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 23,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026135052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 315,
+    "message": "Optimization terminated successfully.",
+    "value": 0.128233749713897,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12823374971375667,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-18,
+      4.163336342344337e-17,
+      4.5102810375396984e-17
+    ],
+    "previous_best": 0.12823374971375667,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 24,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026136050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 364,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12541911486895727,
+    "solution": [
+      5.937680902512454e-13,
+      2.378652830259398e-14,
+      1.7714441025162841e-12,
+      1.0546424844548596e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12541911486881674,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.12541911486881674,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 24,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026136051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 322,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12541911486891524,
+    "solution": [
+      6.015465903175254e-13,
+      2.4446417112855556e-13,
+      3.6328579033906294e-13,
+      4.965125532940817e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12541911486891524,
+    "polish_solution": [
+      6.015465903175254e-13,
+      2.4446417112855556e-13,
+      3.6328579033906294e-13,
+      4.965125532940817e-13
+    ],
+    "previous_best": 0.12541911486881674,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 24,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026136051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 322,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12541911486891524,
+    "solution": [
+      6.015465903175254e-13,
+      2.4446417112855556e-13,
+      3.6328579033906294e-13,
+      4.965125532940817e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12541911486891524,
+    "polish_solution": [
+      6.015465903175254e-13,
+      2.4446417112855556e-13,
+      3.6328579033906294e-13,
+      4.965125532940817e-13
+    ],
+    "previous_best": 0.12541911486881674,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 25,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026137050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 326,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12288133379261273,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12288133379244003,
+    "polish_solution": [
+      4.163336342344337e-17,
+      4.163336342344337e-17,
+      3.469446951953614e-17,
+      1.0408340855860843e-17
+    ],
+    "previous_best": 0.12288133379244,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 25,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026137051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 326,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12288133379253216,
+    "solution": [
+      4.313077672790655e-13,
+      1.600247712119085e-13,
+      4.58119653323763e-13,
+      5.450917495153362e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12288133379253216,
+    "polish_solution": [
+      4.313077672790655e-13,
+      1.600247712119085e-13,
+      4.58119653323763e-13,
+      5.450917495153362e-13
+    ],
+    "previous_best": 0.12288133379244,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 25,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026137051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 326,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12288133379253216,
+    "solution": [
+      4.313077672790655e-13,
+      1.600247712119085e-13,
+      4.58119653323763e-13,
+      5.450917495153362e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12288133379253216,
+    "polish_solution": [
+      4.313077672790655e-13,
+      1.600247712119085e-13,
+      4.58119653323763e-13,
+      5.450917495153362e-13
+    ],
+    "previous_best": 0.12288133379244,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 25,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026137052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 356,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12288133379259153,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      3.0443703114002574e-13,
+      6.492306692251759e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12288133379244003,
+    "polish_solution": [
+      4.163336342344337e-17,
+      2.7755575615628914e-17,
+      1.1796119636642288e-16,
+      5.551115123125783e-17
+    ],
+    "previous_best": 0.12288133379244,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 26,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026138050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 331,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12059320323531258,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12059320323512457,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      9.71445146547012e-17,
+      9.71445146547012e-17,
+      3.122502256758253e-17
+    ],
+    "previous_best": 0.12059320323512457,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 26,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026138051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 391,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1205932032352043,
+    "solution": [
+      1.0150214002635494e-13,
+      1.5574347367319774e-13,
+      1.6622120346809766e-13,
+      1.6104548250517325e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1205932032352043,
+    "polish_solution": [
+      1.0150214002635494e-13,
+      1.5574347367319774e-13,
+      1.6622120346809766e-13,
+      1.6104548250517325e-12
+    ],
+    "previous_best": 0.12059320323512457,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 26,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026138051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 391,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1205932032352043,
+    "solution": [
+      1.0150214002635494e-13,
+      1.5574347367319774e-13,
+      1.6622120346809766e-13,
+      1.6104548250517325e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1205932032352043,
+    "polish_solution": [
+      1.0150214002635494e-13,
+      1.5574347367319774e-13,
+      1.6622120346809766e-13,
+      1.6104548250517325e-12
+    ],
+    "previous_best": 0.12059320323512457,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 26,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026138052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 355,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12059320323530506,
+    "solution": [
+      6.865549795342929e-13,
+      6.9933642210529e-13,
+      6.517286710305825e-13,
+      4.745648318760232e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12059320323512457,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      1.734723475976807e-17
+    ],
+    "previous_best": 0.12059320323512457,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 27,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026139050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11853038925116706,
+    "solution": [
+      5.642708522657358e-14,
+      5.162814620263134e-13,
+      1.4921119895205948e-12,
+      1.6844928230064227e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11853038925097072,
+    "polish_solution": [
+      0.0,
+      1.249000902703301e-16,
+      1.3877787807814457e-16,
+      1.0061396160665481e-16
+    ],
+    "previous_best": 0.11853038925097067,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 27,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026139051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11853038925112318,
+    "solution": [
+      4.917732887577131e-13,
+      1.8183371475188892e-13,
+      2.103178742274281e-14,
+      2.5414254034572537e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11853038925097067,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11853038925097067,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 27,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026139051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11853038925112318,
+    "solution": [
+      4.917732887577131e-13,
+      1.8183371475188892e-13,
+      2.103178742274281e-14,
+      2.5414254034572537e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11853038925097067,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11853038925097067,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 27,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026139052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 334,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11853038925117224,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.48550657622593e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11853038925097067,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      2.7755575615628914e-17,
+      4.163336342344337e-17,
+      3.469446951953614e-18
+    ],
+    "previous_best": 0.11853038925097067,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 28,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026140050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 338,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11667109094966027,
+    "solution": [
+      6.330908020046877e-13,
+      4.736905312441309e-13,
+      2.346942085118542e-13,
+      9.752268437246414e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11667109094949062,
+    "polish_solution": [
+      0.0,
+      1.3877787807814457e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11667109094949062,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 28,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026140051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 358,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11667109094966555,
+    "solution": [
+      7.396028234296637e-13,
+      4.985803436774461e-13,
+      2.267422360979765e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11667109094949062,
+    "polish_solution": [
+      0.0,
+      2.0816681711721685e-17,
+      6.938893903907228e-18,
+      2.7755575615628914e-17
+    ],
+    "previous_best": 0.11667109094949062,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 28,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026140051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 358,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11667109094966555,
+    "solution": [
+      7.396028234296637e-13,
+      4.985803436774461e-13,
+      2.267422360979765e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11667109094949062,
+    "polish_solution": [
+      0.0,
+      2.0816681711721685e-17,
+      6.938893903907228e-18,
+      2.7755575615628914e-17
+    ],
+    "previous_best": 0.11667109094949062,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 28,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026140052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 320,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11667109094970754,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11667109094949062,
+    "polish_solution": [
+      0.0,
+      8.326672684688674e-17,
+      9.71445146547012e-17,
+      4.163336342344337e-17
+    ],
+    "previous_best": 0.11667109094949062,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 29,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026141051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 359,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11499788800950783,
+    "solution": [
+      1.8494927811474327e-13,
+      8.852502064726764e-13,
+      2.47572795597506e-13,
+      1.810357419529396e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11499788800937097,
+    "polish_solution": [
+      6.938893903907228e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11499788800937097,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 29,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026141051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 359,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11499788800950783,
+    "solution": [
+      1.8494927811474327e-13,
+      8.852502064726764e-13,
+      2.47572795597506e-13,
+      1.810357419529396e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11499788800937097,
+    "polish_solution": [
+      6.938893903907228e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11499788800937097,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 29,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026141052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 351,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11499788800955504,
+    "solution": [
+      3.710920459809586e-14,
+      4.881303694581618e-13,
+      3.741659759803895e-13,
+      2.951645872162345e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11499788800937097,
+    "polish_solution": [
+      0.0,
+      1.0408340855860843e-16,
+      6.938893903907228e-18,
+      1.3877787807814457e-17
+    ],
+    "previous_best": 0.11499788800937097,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 30,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026142050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 334,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11348958003377504,
+    "solution": [
+      1.3788276076454054e-13,
+      5.992775720109478e-13,
+      3.7000957853194905e-13,
+      3.461522735115352e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11348958003353649,
+    "polish_solution": [
+      0.0,
+      2.0816681711721685e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11348958003353649,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 30,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026142051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 363,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11348958003377997,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11348958003353649,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11348958003353649,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 30,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026142051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 363,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11348958003377997,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11348958003353649,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11348958003353649,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 30,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026142052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 353,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11348958003377997,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11348958003353649,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11348958003353649,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 31,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026143050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 329,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1121317342218198,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11213173422156375,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      8.326672684688674e-17,
+      8.326672684688674e-17,
+      4.85722573273506e-17
+    ],
+    "previous_best": 0.11213173422156367,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 31,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026143051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1121317342218198,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11213173422156375,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      8.326672684688674e-17,
+      8.326672684688674e-17,
+      4.85722573273506e-17
+    ],
+    "previous_best": 0.11213173422156367,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 31,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026143051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1121317342218198,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11213173422156375,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      8.326672684688674e-17,
+      8.326672684688674e-17,
+      4.85722573273506e-17
+    ],
+    "previous_best": 0.11213173422156367,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 32,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026144050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 354,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1109101228375296,
+    "solution": [
+      6.482245296091094e-13,
+      2.3150925620996077e-13,
+      5.408729020217606e-13,
+      2.234670781753323e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11091012283735194,
+    "polish_solution": [
+      4.85722573273506e-17,
+      5.551115123125783e-17,
+      1.6653345369377348e-16,
+      1.1102230246251565e-16
+    ],
+    "previous_best": 0.11091012283735184,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 32,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026144051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 351,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11091012283760557,
+    "solution": [
+      5.965436478128083e-13,
+      1.961208973000339e-13,
+      1.0162357066967331e-12,
+      1.4437478990103614e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11091012283735184,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11091012283735184,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 32,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026144051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 351,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11091012283760557,
+    "solution": [
+      5.965436478128083e-13,
+      1.961208973000339e-13,
+      1.0162357066967331e-12,
+      1.4437478990103614e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11091012283735184,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11091012283735184,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 32,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026144052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 359,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11091012283756418,
+    "solution": [
+      9.632572517404014e-14,
+      3.682401605864527e-13,
+      6.598888102615774e-15,
+      3.778893864492261e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11091012283735184,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11091012283735184,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 33,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026145050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 313,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10981188823032198,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10981188823004218,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      8.326672684688674e-17,
+      1.942890293094024e-16,
+      1.249000902703301e-16
+    ],
+    "previous_best": 0.10981188823004215,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 33,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026145051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 341,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10981188823032198,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10981188823004218,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      8.326672684688674e-17,
+      1.942890293094024e-16,
+      1.249000902703301e-16
+    ],
+    "previous_best": 0.10981188823004215,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 33,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026145051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 341,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10981188823032198,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10981188823004218,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      8.326672684688674e-17,
+      1.942890293094024e-16,
+      1.249000902703301e-16
+    ],
+    "previous_best": 0.10981188823004215,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 33,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026145052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10981188823017413,
+    "solution": [
+      3.2490676815655206e-13,
+      1.6161377791590326e-13,
+      5.591915819280757e-13,
+      3.329003739338532e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10981188823004215,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.10981188823004215,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 34,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026146050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 313,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10882515558973102,
+    "solution": [
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10882515558944007,
+    "polish_solution": [
+      0.0,
+      2.7755575615628914e-17,
+      1.1102230246251565e-16,
+      3.469446951953614e-17
+    ],
+    "previous_best": 0.10882515558943999,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 34,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026146051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 331,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10882515558959796,
+    "solution": [
+      1.9337309531408664e-13,
+      6.658562590189376e-14,
+      6.558503740095034e-13,
+      1.3750042771043525e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.10882515558943999,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.10882515558943999,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 34,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026146051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 331,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10882515558959796,
+    "solution": [
+      1.9337309531408664e-13,
+      6.658562590189376e-14,
+      6.558503740095034e-13,
+      1.3750042771043525e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.10882515558943999,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.10882515558943999,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 34,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026146052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 351,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10882515558970421,
+    "solution": [
+      3.252328961700357e-13,
+      1.4749798604718478e-12,
+      7.655681644180845e-14,
+      3.664360481714368e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10882515558943999,
+    "polish_solution": [
+      0.0,
+      0.0,
+      4.85722573273506e-17,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.10882515558943999,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 35,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2026147050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 331,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10793912045596232,
+    "solution": [
+      1.6624202014980938e-13,
+      3.30596661157756e-13,
+      6.88116230662672e-13,
+      6.428121923640617e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10793912045579904,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.10793912045579904,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "plain",
+    "t": 35,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2026147052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 339,
+    "message": "Optimization terminated successfully.",
+    "value": 0.10793912045607652,
+    "solution": [
+      6.229877724805988e-13,
+      6.88116230662672e-13,
+      5.413031134438029e-13,
+      6.88116230662672e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.10793912045579904,
+    "polish_solution": [
+      0.0,
+      0.0,
+      9.71445146547012e-17,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.10793912045579904,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 0,
+    "kind": "priced",
+    "seed": 2027112000,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 358,
+    "message": "Optimization terminated successfully.",
+    "value": 10.222365100777012,
+    "solution": [
+      0.0799999999994723,
+      0.07999999999998078,
+      0.0799999999998946,
+      0.07999999999253433
+    ],
+    "polish_success": true,
+    "polish_value": 10.222365100758218,
+    "polish_solution": [
+      0.08,
+      0.08,
+      0.08,
+      0.08
+    ],
+    "previous_best": 10.222365100758218,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 0,
+    "kind": "feasible",
+    "seed": 2027112001,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 351,
+    "message": "Optimization terminated successfully.",
+    "value": 8.899807621091433,
+    "solution": [
+      0.07999992259180655,
+      0.0799998245204964,
+      0.07999996870202473,
+      0.07999978512504505
+    ],
+    "polish_success": true,
+    "polish_value": 8.899807621091433,
+    "polish_solution": [
+      0.07999992259180655,
+      0.0799998245204964,
+      0.07999996870202473,
+      0.07999978512504505
+    ],
+    "previous_best": 8.899807621091433,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 1,
+    "kind": "feasible",
+    "seed": 2027112011,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 323,
+    "message": "Optimization terminated successfully.",
+    "value": 6.862578571828248,
+    "solution": [
+      0.006694047513934833,
+      0.015282406290266263,
+      0.022508313263881134,
+      0.023913229830356257
+    ],
+    "polish_success": true,
+    "polish_value": 6.862578571828248,
+    "polish_solution": [
+      0.006694047513934833,
+      0.015282406290266263,
+      0.022508313263881134,
+      0.023913229830356257
+    ],
+    "previous_best": 6.862578571828248,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 3,
+    "kind": "priced",
+    "seed": 2027112030,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 346,
+    "message": "Optimization terminated successfully.",
+    "value": 7.365805418529275,
+    "solution": [
+      3.5253744368191064e-13,
+      4.3624825973864745e-14,
+      1.482078348935545e-12,
+      1.2392240011926958e-11
+    ],
+    "polish_success": true,
+    "polish_value": 7.365805418518512,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 7.365805418518512,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 3,
+    "kind": "priced",
+    "seed": 2027112031,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 7.365805418546136,
+    "solution": [
+      5.876410469340954e-13,
+      3.739092369059449e-12,
+      4.923353391639296e-12,
+      8.960401864932521e-13
+    ],
+    "polish_success": true,
+    "polish_value": 7.365805418518633,
+    "polish_solution": [
+      1.6568542170497918e-14,
+      5.394646555170681e-15,
+      0.0,
+      0.0
+    ],
+    "previous_best": 7.365805418518512,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027112041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 7.02514222449177,
+    "solution": [
+      0.07999992073895613,
+      0.06902790623011058,
+      0.057154004887982404,
+      0.04084251208306178
+    ],
+    "polish_success": true,
+    "polish_value": 7.02514222449177,
+    "polish_solution": [
+      0.07999992073895613,
+      0.06902790623011058,
+      0.057154004887982404,
+      0.04084251208306178
+    ],
+    "previous_best": 7.02514222449177,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027112042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 363,
+    "message": "Optimization terminated successfully.",
+    "value": 7.02514222449177,
+    "solution": [
+      0.07999992073895613,
+      0.06902790623011058,
+      0.057154004887982404,
+      0.04084251208306178
+    ],
+    "polish_success": true,
+    "polish_value": 7.02514222449177,
+    "polish_solution": [
+      0.07999992073895613,
+      0.06902790623011058,
+      0.057154004887982404,
+      0.04084251208306178
+    ],
+    "previous_best": 7.02514222449177,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027112051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 338,
+    "message": "Optimization terminated successfully.",
+    "value": 7.103544253152974,
+    "solution": [
+      0.013306109129512331,
+      0.01568986294178274,
+      0.020337713105604928,
+      0.02188097843789219
+    ],
+    "polish_success": true,
+    "polish_value": 7.103544253152974,
+    "polish_solution": [
+      0.013306109129512331,
+      0.01568986294178274,
+      0.020337713105604928,
+      0.02188097843789219
+    ],
+    "previous_best": 7.103544253152974,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 0,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027112052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 336,
+    "message": "Optimization terminated successfully.",
+    "value": 7.103544253152974,
+    "solution": [
+      0.013306109129512331,
+      0.01568986294178274,
+      0.020337713105604928,
+      0.02188097843789219
+    ],
+    "polish_success": true,
+    "polish_value": 7.103544253152974,
+    "polish_solution": [
+      0.013306109129512331,
+      0.01568986294178274,
+      0.020337713105604928,
+      0.02188097843789219
+    ],
+    "previous_best": 7.103544253152974,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 1,
+    "i": 0,
+    "kind": "priced",
+    "seed": 2027113000,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 321,
+    "message": "Optimization terminated successfully.",
+    "value": 7.345806900508707,
+    "solution": [
+      0.07999999999992397,
+      0.07999999999947144,
+      0.07999999999851853,
+      0.07999999998566239
+    ],
+    "polish_success": true,
+    "polish_value": 7.34580690049117,
+    "polish_solution": [
+      0.08,
+      0.08,
+      0.08,
+      0.07999999999979826
+    ],
+    "previous_best": 7.345806900491054,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 1,
+    "i": 0,
+    "kind": "priced",
+    "seed": 2027113001,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 323,
+    "message": "Optimization terminated successfully.",
+    "value": 7.345806900513054,
+    "solution": [
+      0.07999999999912716,
+      0.07999999999990115,
+      0.07999999999695115,
+      0.07999999999760257
+    ],
+    "polish_success": true,
+    "polish_value": 7.345806900491054,
+    "polish_solution": [
+      0.08,
+      0.08,
+      0.08,
+      0.08
+    ],
+    "previous_best": 7.345806900491054,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 1,
+    "i": 0,
+    "kind": "feasible",
+    "seed": 2027113002,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 353,
+    "message": "Optimization terminated successfully.",
+    "value": 6.398736217909958,
+    "solution": [
+      0.07999982384420601,
+      0.07999999999908056,
+      0.07999999999895355,
+      0.07999986860101069
+    ],
+    "polish_success": true,
+    "polish_value": 6.398736217890419,
+    "polish_solution": [
+      0.07999982384420601,
+      0.08,
+      0.08,
+      0.0799998686060465
+    ],
+    "previous_best": 6.398736217890419,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 1,
+    "i": 3,
+    "kind": "priced",
+    "seed": 2027113030,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 339,
+    "message": "Optimization terminated successfully.",
+    "value": 5.003172871477044,
+    "solution": [
+      1.0780473735927387e-12,
+      6.245004513516506e-17,
+      2.5742186160471192e-12,
+      8.370457105222329e-12
+    ],
+    "polish_success": true,
+    "polish_value": 5.003172871468297,
+    "polish_solution": [
+      1.489780521168882e-14,
+      9.38832345198648e-15,
+      2.942091015256665e-15,
+      3.3306690738754696e-16
+    ],
+    "previous_best": 5.003172871468201,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 1,
+    "i": 3,
+    "kind": "priced",
+    "seed": 2027113031,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 352,
+    "message": "Optimization terminated successfully.",
+    "value": 5.003172871474852,
+    "solution": [
+      1.1366602103990431e-13,
+      1.1594891713428979e-14,
+      2.252399655677806e-12,
+      3.04783767668404e-11
+    ],
+    "polish_success": true,
+    "polish_value": 5.003172871468201,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      1.228648925305885e-15
+    ],
+    "previous_best": 5.003172871468201,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 2,
+    "i": 0,
+    "kind": "feasible",
+    "seed": 2027114001,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 4.5452020666735,
+    "solution": [
+      0.07999984081354794,
+      0.07999993124830064,
+      0.07999986832287595,
+      0.07600724665520318
+    ],
+    "polish_success": true,
+    "polish_value": 4.545202066654907,
+    "polish_solution": [
+      0.07999984081405377,
+      0.07999993124934729,
+      0.07999986832328196,
+      0.07600725783209017
+    ],
+    "previous_best": 4.545202066654908,
+    "further_improvement_found": 8.881784197001252e-16
+  },
+  {
+    "scenario": "screen",
+    "t": 9,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027121042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 356,
+    "message": "Optimization terminated successfully.",
+    "value": 0.09143974094220236,
+    "solution": [
+      4.441655376830056e-13,
+      8.561970576970168e-13,
+      2.579186864082317e-13,
+      1.2522829995198492e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.0914397409420438,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.0914397409420438,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 10,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027122040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 327,
+    "message": "Optimization terminated successfully.",
+    "value": 0.08688322305372517,
+    "solution": [
+      1.0430545316353346e-13,
+      9.155246005754236e-13,
+      1.5945092468605537e-12,
+      1.8644807919798723e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.08688322305357235,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.08688322305357235,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 11,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027123040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 316,
+    "message": "Optimization terminated successfully.",
+    "value": 0.0827809787490541,
+    "solution": [
+      3.1398772470936365e-12,
+      1.989852727035668e-12,
+      1.0004427841714403e-12,
+      3.93199361958807e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.08278097874860016,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-17,
+      5.551115123125783e-17,
+      4.85722573273506e-17
+    ],
+    "previous_best": 0.08278097874860013,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 11,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027123041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.08278097874903739,
+    "solution": [
+      4.675912435025964e-13,
+      5.701480954023452e-13,
+      7.189179807021162e-12,
+      2.6967039712388896e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.08278097874860016,
+    "polish_solution": [
+      2.0816681711721685e-17,
+      6.245004513516506e-17,
+      4.85722573273506e-17,
+      2.42861286636753e-17
+    ],
+    "previous_best": 0.08278097874860013,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 11,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027123041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.08278097874903739,
+    "solution": [
+      4.675912435025964e-13,
+      5.701480954023452e-13,
+      7.189179807021162e-12,
+      2.6967039712388896e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.08278097874860016,
+    "polish_solution": [
+      2.0816681711721685e-17,
+      6.245004513516506e-17,
+      4.85722573273506e-17,
+      2.42861286636753e-17
+    ],
+    "previous_best": 0.08278097874860013,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 11,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027123042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.08278097874905326,
+    "solution": [
+      6.727257639838058e-14,
+      1.335848098804604e-12,
+      3.636334289236487e-12,
+      9.988967986096497e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.08278097874860016,
+    "polish_solution": [
+      2.0816681711721685e-17,
+      5.551115123125783e-17,
+      6.938893903907228e-17,
+      3.122502256758253e-17
+    ],
+    "previous_best": 0.08278097874860013,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 12,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027124040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.07907657253867625,
+    "solution": [
+      3.0899935388184474e-12,
+      2.48245868306185e-13,
+      7.831235659949698e-13,
+      3.69412833656213e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.07907657253831342,
+    "polish_solution": [
+      6.938893903907228e-18,
+      6.938893903907228e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.0790765725383134,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 12,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027124041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.07907657253866403,
+    "solution": [
+      1.6441015215917787e-13,
+      2.9184224481504373e-12,
+      1.3952450306220499e-12,
+      5.8129959179531454e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.0790765725383134,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      0.0,
+      2.0816681711721685e-17,
+      0.0
+    ],
+    "previous_best": 0.0790765725383134,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 12,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027124041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.07907657253866403,
+    "solution": [
+      1.6441015215917787e-13,
+      2.9184224481504373e-12,
+      1.3952450306220499e-12,
+      5.8129959179531454e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.0790765725383134,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      0.0,
+      2.0816681711721685e-17,
+      0.0
+    ],
+    "previous_best": 0.0790765725383134,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 14,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027126041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 308,
+    "message": "Optimization terminated successfully.",
+    "value": 0.07267595406726586,
+    "solution": [
+      9.470757511564898e-13,
+      2.45255205033601e-12,
+      1.764574597551416e-12,
+      1.3917270114127689e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.07267595406699646,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.07267595406699646,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 14,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027126041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 308,
+    "message": "Optimization terminated successfully.",
+    "value": 0.07267595406726586,
+    "solution": [
+      9.470757511564898e-13,
+      2.45255205033601e-12,
+      1.764574597551416e-12,
+      1.3917270114127689e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.07267595406699646,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.07267595406699646,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 14,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027126050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1637073538411266,
+    "solution": [
+      6.745298763988217e-14,
+      1.0127558514039237e-11,
+      2.1141144390668387e-12,
+      1.520338716032299e-11
+    ],
+    "polish_success": true,
+    "polish_value": 0.16370735384050922,
+    "polish_solution": [
+      6.938893903907228e-18,
+      4.163336342344337e-17,
+      2.7755575615628914e-17,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.16370735384050922,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 14,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027126051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.16370735384100565,
+    "solution": [
+      4.566867717326062e-12,
+      1.23637211579819e-13,
+      1.1557893531133345e-11,
+      6.842859612277152e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.16370735384050922,
+    "polish_solution": [
+      6.938893903907228e-18,
+      2.7755575615628914e-17,
+      5.551115123125783e-17,
+      4.5102810375396984e-17
+    ],
+    "previous_best": 0.16370735384050922,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 14,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027126051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.16370735384100565,
+    "solution": [
+      4.566867717326062e-12,
+      1.23637211579819e-13,
+      1.1557893531133345e-11,
+      6.842859612277152e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.16370735384050922,
+    "polish_solution": [
+      6.938893903907228e-18,
+      2.7755575615628914e-17,
+      5.551115123125783e-17,
+      4.5102810375396984e-17
+    ],
+    "previous_best": 0.16370735384050922,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 15,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027127040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06990255114061239,
+    "solution": [
+      1.3123044317886468e-12,
+      5.0998094636156566e-12,
+      1.3921225283652916e-12,
+      1.6991102969043936e-11
+    ],
+    "polish_success": true,
+    "polish_value": 0.06990255113997942,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-18,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.06990255113997942,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 15,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027127050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 301,
+    "message": "Optimization terminated successfully.",
+    "value": 0.15769486909247799,
+    "solution": [
+      1.4636417078328634e-12,
+      1.8777965293814702e-12,
+      1.2326736853474074e-12,
+      4.262895592077598e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.15769486909220676,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.15769486909220676,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 16,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027128041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06737113383005609,
+    "solution": [
+      2.5581828322351896e-12,
+      1.1656509091295675e-12,
+      3.377770285695192e-12,
+      2.9081390073848468e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06737113382970936,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      1.734723475976807e-17,
+      3.469446951953614e-18
+    ],
+    "previous_best": 0.06737113382970936,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 16,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027128041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06737113383005609,
+    "solution": [
+      2.5581828322351896e-12,
+      1.1656509091295675e-12,
+      3.377770285695192e-12,
+      2.9081390073848468e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06737113382970936,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      1.734723475976807e-17,
+      3.469446951953614e-18
+    ],
+    "previous_best": 0.06737113382970936,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 16,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027128052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1522986048215348,
+    "solution": [
+      2.0331306083143375e-12,
+      3.6923242241471144e-13,
+      1.0772993608298975e-11,
+      5.704346717205766e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.15229860482086557,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      3.469446951953614e-18
+    ],
+    "previous_best": 0.15229860482086557,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 17,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027129040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 308,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06505524289793586,
+    "solution": [
+      1.6219664500383146e-13,
+      4.1351644330944737e-13,
+      2.0730639427313236e-13,
+      1.5092441185693417e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06505524289793586,
+    "polish_solution": [
+      1.6219664500383146e-13,
+      4.1351644330944737e-13,
+      2.0730639427313236e-13,
+      1.5092441185693417e-12
+    ],
+    "previous_best": 0.06505524289788156,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 17,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027129042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06505524289839047,
+    "solution": [
+      2.872889426352998e-12,
+      2.9587096661565226e-12,
+      2.8518576389302552e-12,
+      9.808015510870405e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06505524289788156,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.06505524289788156,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 17,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027129051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 0.147451171721806,
+    "solution": [
+      9.06470037920215e-12,
+      9.280215484963605e-13,
+      8.147649221967868e-14,
+      6.96491475604688e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.14745117172103622,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      3.469446951953614e-17,
+      2.42861286636753e-17
+    ],
+    "previous_best": 0.14745117172103622,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 17,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027129051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 0.147451171721806,
+    "solution": [
+      9.06470037920215e-12,
+      9.280215484963605e-13,
+      8.147649221967868e-14,
+      6.96491475604688e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.14745117172103622,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      3.469446951953614e-17,
+      2.42861286636753e-17
+    ],
+    "previous_best": 0.14745117172103622,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 18,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027130041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06293206988776766,
+    "solution": [
+      5.839981276345441e-13,
+      3.415739913137372e-13,
+      3.0584909604947086e-12,
+      1.161043483577373e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06293206988762157,
+    "polish_solution": [
+      2.0816681711721685e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.06293206988762157,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 18,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027130041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06293206988776766,
+    "solution": [
+      5.839981276345441e-13,
+      3.415739913137372e-13,
+      3.0584909604947086e-12,
+      1.161043483577373e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06293206988762157,
+    "polish_solution": [
+      2.0816681711721685e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.06293206988762157,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 18,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027130050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.14309322206018948,
+    "solution": [
+      5.33215832598799e-12,
+      6.166317456646198e-13,
+      2.3286234052122268e-12,
+      2.7646079869825257e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.14309322205949868,
+    "polish_solution": [
+      0.0,
+      1.3877787807814457e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.14309322205949868,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 18,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027130051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.14309322205991987,
+    "solution": [
+      2.953831623742076e-12,
+      2.831138101733188e-13,
+      1.2455383946452514e-12,
+      3.325333064463365e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.14309322205949868,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      9.020562075079397e-17,
+      4.163336342344337e-17,
+      3.8163916471489756e-17
+    ],
+    "previous_best": 0.14309322205949868,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 18,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027130051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.14309322205991987,
+    "solution": [
+      2.953831623742076e-12,
+      2.831138101733188e-13,
+      1.2455383946452514e-12,
+      3.325333064463365e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.14309322205949868,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      9.020562075079397e-17,
+      4.163336342344337e-17,
+      3.8163916471489756e-17
+    ],
+    "previous_best": 0.14309322205949868,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 18,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027130052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.14309322206000946,
+    "solution": [
+      2.2365026497439544e-12,
+      2.56399068643276e-12,
+      7.743042318431037e-13,
+      3.957847938274028e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.14309322205949868,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.14309322205949868,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 19,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027131041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.0609819325426774,
+    "solution": [
+      1.0322923071903745e-12,
+      4.0835668180250195e-12,
+      3.5085337413143236e-12,
+      6.885075842788524e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06098193254227095,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.06098193254227095,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 19,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027131041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.0609819325426774,
+    "solution": [
+      1.0322923071903745e-12,
+      4.0835668180250195e-12,
+      3.5085337413143236e-12,
+      6.885075842788524e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.06098193254227095,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.06098193254227095,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 19,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027131042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 321,
+    "message": "Optimization terminated successfully.",
+    "value": 0.06098193254249085,
+    "solution": [
+      3.0684413343529116e-12,
+      1.3367085216486885e-13,
+      1.6187537421608056e-12,
+      8.306896837062538e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.06098193254227095,
+    "polish_solution": [
+      6.938893903907228e-18,
+      1.3877787807814457e-17,
+      1.0408340855860843e-17,
+      1.734723475976807e-18
+    ],
+    "previous_best": 0.06098193254227095,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 19,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027131051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 322,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13917241030028654,
+    "solution": [
+      1.266806104460727e-12,
+      8.787970351420427e-13,
+      5.418915316468542e-12,
+      3.3303568236497938e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.13917241029971167,
+    "polish_solution": [
+      0.0,
+      1.3877787807814457e-17,
+      1.3877787807814457e-17,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.13917241029971167,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 19,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027131051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 322,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13917241030028654,
+    "solution": [
+      1.266806104460727e-12,
+      8.787970351420427e-13,
+      5.418915316468542e-12,
+      3.3303568236497938e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.13917241029971167,
+    "polish_solution": [
+      0.0,
+      1.3877787807814457e-17,
+      1.3877787807814457e-17,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.13917241029971167,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 20,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027132041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.059187823819401145,
+    "solution": [
+      3.297889739073412e-12,
+      1.097254231918754e-12,
+      3.695446726403873e-12,
+      1.355132672742343e-11
+    ],
+    "polish_success": true,
+    "polish_value": 0.05918782381890385,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.05918782381890385,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 20,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027132041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.059187823819401145,
+    "solution": [
+      3.297889739073412e-12,
+      1.097254231918754e-12,
+      3.695446726403873e-12,
+      1.355132672742343e-11
+    ],
+    "polish_success": true,
+    "polish_value": 0.05918782381890385,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.05918782381890385,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 20,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027132042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 308,
+    "message": "Optimization terminated successfully.",
+    "value": 0.05918782381929319,
+    "solution": [
+      5.277320247465411e-12,
+      2.1428692154046303e-13,
+      3.918740332231607e-12,
+      5.39651656694673e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.05918782381890385,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      4.85722573273506e-17,
+      2.7755575615628914e-17,
+      1.5612511283791264e-17
+    ],
+    "previous_best": 0.05918782381890385,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 20,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027132050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 320,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13564249811957443,
+    "solution": [
+      1.6256440638073855e-13,
+      2.2287033329959627e-12,
+      2.609759630622932e-12,
+      1.1911374664386187e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1356424981191789,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      2.7755575615628914e-17,
+      2.0816681711721685e-17,
+      1.0408340855860843e-17
+    ],
+    "previous_best": 0.1356424981191789,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 20,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027132051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1356424981197322,
+    "solution": [
+      9.247463905737163e-13,
+      3.1155633628543455e-12,
+      1.5078355231068485e-12,
+      3.3694991241617345e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1356424981191789,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.1356424981191789,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 20,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027132051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1356424981197322,
+    "solution": [
+      9.247463905737163e-13,
+      3.1155633628543455e-12,
+      1.5078355231068485e-12,
+      3.3694991241617345e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1356424981191789,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.1356424981191789,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 21,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027133040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 301,
+    "message": "Optimization terminated successfully.",
+    "value": 0.057535025086631116,
+    "solution": [
+      1.4881151866319442e-13,
+      2.479107197306263e-12,
+      2.802202914153895e-13,
+      2.547462241153653e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.05753502508648402,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.05753502508648402,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 21,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027133041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 314,
+    "message": "Optimization terminated successfully.",
+    "value": 0.057535025086546475,
+    "solution": [
+      6.898023818813215e-13,
+      2.0606433226433296e-13,
+      5.625153121080473e-13,
+      3.2605168565069675e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.057535025086546475,
+    "polish_solution": [
+      6.898023818813215e-13,
+      2.0606433226433296e-13,
+      5.625153121080473e-13,
+      3.2605168565069675e-13
+    ],
+    "previous_best": 0.05753502508648402,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 21,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027133041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 314,
+    "message": "Optimization terminated successfully.",
+    "value": 0.057535025086546475,
+    "solution": [
+      6.898023818813215e-13,
+      2.0606433226433296e-13,
+      5.625153121080473e-13,
+      3.2605168565069675e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.057535025086546475,
+    "polish_solution": [
+      6.898023818813215e-13,
+      2.0606433226433296e-13,
+      5.625153121080473e-13,
+      3.2605168565069675e-13
+    ],
+    "previous_best": 0.05753502508648402,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 21,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027133042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 313,
+    "message": "Optimization terminated successfully.",
+    "value": 0.057535025086736,
+    "solution": [
+      8.905029491579342e-13,
+      4.433189926267289e-13,
+      4.62044291715813e-12,
+      4.720390744950009e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.05753502508648402,
+    "polish_solution": [
+      0.0,
+      2.0816681711721685e-17,
+      2.42861286636753e-17,
+      0.0
+    ],
+    "previous_best": 0.05753502508648402,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 21,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027133051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 321,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13246258199772604,
+    "solution": [
+      3.9717534816574585e-13,
+      3.3133149002217976e-12,
+      6.740441538255482e-14,
+      3.4900554668482187e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.1324625819973597,
+    "polish_solution": [
+      4.85722573273506e-17,
+      7.632783294297951e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.1324625819973597,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 21,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027133051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 321,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13246258199772604,
+    "solution": [
+      3.9717534816574585e-13,
+      3.3133149002217976e-12,
+      6.740441538255482e-14,
+      3.4900554668482187e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.1324625819973597,
+    "polish_solution": [
+      4.85722573273506e-17,
+      7.632783294297951e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.1324625819973597,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 21,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027133052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 313,
+    "message": "Optimization terminated successfully.",
+    "value": 0.13246258199813227,
+    "solution": [
+      3.2062755228601247e-12,
+      3.365363543395006e-13,
+      7.142064717413632e-13,
+      9.962822233866575e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1324625819973597,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.1324625819973597,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 22,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027134040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 313,
+    "message": "Optimization terminated successfully.",
+    "value": 0.0560107738564351,
+    "solution": [
+      2.978138569087463e-12,
+      1.889023659717992e-12,
+      1.1312270564722837e-12,
+      5.295576477326591e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.056010773856105395,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.056010773856105395,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 22,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027134041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 302,
+    "message": "Optimization terminated successfully.",
+    "value": 0.05601077385634483,
+    "solution": [
+      9.785228183289973e-14,
+      1.6133969160669892e-12,
+      1.4379678003884067e-12,
+      9.367132070003947e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.056010773856105395,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.056010773856105395,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 22,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027134041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 302,
+    "message": "Optimization terminated successfully.",
+    "value": 0.05601077385634483,
+    "solution": [
+      9.785228183289973e-14,
+      1.6133969160669892e-12,
+      1.4379678003884067e-12,
+      9.367132070003947e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.056010773856105395,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.056010773856105395,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 22,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027134050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 309,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1295964260571027,
+    "solution": [
+      1.7405521468560892e-12,
+      2.2201684934941568e-12,
+      2.1644491754457817e-12,
+      4.574327028272762e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12959642605636004,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      1.249000902703301e-16,
+      4.163336342344337e-17,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.12959642605636004,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 22,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027134052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 301,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12959642605669644,
+    "solution": [
+      6.174227795696652e-13,
+      1.9195894873647035e-12,
+      2.23189522419176e-13,
+      1.576468122710395e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12959642605636004,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.12959642605636004,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 23,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027135051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12701188277125852,
+    "solution": [
+      1.092161083793286e-12,
+      4.685418719674317e-13,
+      3.3473016025631352e-12,
+      6.310070521653444e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12701188277058975,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.12701188277058975,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 23,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027135051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 307,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12701188277125852,
+    "solution": [
+      1.092161083793286e-12,
+      4.685418719674317e-13,
+      3.3473016025631352e-12,
+      6.310070521653444e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12701188277058975,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.12701188277058975,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 24,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027136040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.053304974495044066,
+    "solution": [
+      2.146408051295623e-13,
+      3.960720640350246e-14,
+      6.963180032570904e-14,
+      1.8301332671555315e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.053304974495044066,
+    "polish_solution": [
+      2.146408051295623e-13,
+      3.960720640350246e-14,
+      6.963180032570904e-14,
+      1.8301332671555315e-13
+    ],
+    "previous_best": 0.0533049744950266,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 24,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027136042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 301,
+    "message": "Optimization terminated successfully.",
+    "value": 0.05330497449530524,
+    "solution": [
+      1.2610884558839075e-12,
+      3.072819776406277e-13,
+      6.840042421352166e-12,
+      4.23418244910323e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.0533049744950266,
+    "polish_solution": [
+      0.0,
+      4.85722573273506e-17,
+      3.122502256758253e-17,
+      1.3877787807814457e-17
+    ],
+    "previous_best": 0.0533049744950266,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 24,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027136050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 317,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1246803953343111,
+    "solution": [
+      5.167186123422596e-13,
+      2.1269791483646827e-13,
+      1.7379153671726044e-13,
+      3.911732049388661e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12468039533404904,
+    "polish_solution": [
+      0.0,
+      6.245004513516506e-17,
+      6.938893903907228e-17,
+      4.163336342344337e-17
+    ],
+    "previous_best": 0.12468039533404904,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 24,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027136051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 318,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12468039533447306,
+    "solution": [
+      1.0186851362448124e-12,
+      8.954226249358044e-13,
+      3.4382219293860317e-13,
+      3.953448679538951e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12468039533404904,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.12468039533404904,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 24,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027136051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 318,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12468039533447306,
+    "solution": [
+      1.0186851362448124e-12,
+      8.954226249358044e-13,
+      3.4382219293860317e-13,
+      3.953448679538951e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12468039533404904,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.12468039533404904,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 24,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027136052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 313,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12468039533454917,
+    "solution": [
+      2.815678246115283e-12,
+      4.155426003293883e-13,
+      5.571931804837504e-15,
+      1.347595646183919e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12468039533404904,
+    "polish_solution": [
+      4.163336342344337e-17,
+      6.938893903907228e-17,
+      1.0408340855860843e-16,
+      6.938893903907228e-17
+    ],
+    "previous_best": 0.12468039533404904,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 25,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027137052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 317,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12257655962985195,
+    "solution": [
+      1.959273021601149e-12,
+      4.547612286742719e-13,
+      1.0777628789426785e-12,
+      4.3267334159935444e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12257655962924159,
+    "polish_solution": [
+      0.0,
+      1.3877787807814457e-17,
+      1.1102230246251565e-16,
+      8.326672684688674e-17
+    ],
+    "previous_best": 0.12257655962924159,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 26,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027138042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 321,
+    "message": "Optimization terminated successfully.",
+    "value": 0.05099759354433478,
+    "solution": [
+      2.1029636365632598e-12,
+      5.753106324668522e-13,
+      2.561971468306723e-12,
+      1.9065790612948774e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.05099759354408524,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.05099759354408524,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 26,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027138050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 316,
+    "message": "Optimization terminated successfully.",
+    "value": 0.120677748201283,
+    "solution": [
+      3.8029301929753956e-13,
+      2.6520452500733427e-13,
+      5.84017556537475e-12,
+      5.60364254997836e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.12067774820067693,
+    "polish_solution": [
+      0.0,
+      8.326672684688674e-17,
+      6.938893903907228e-17,
+      1.3877787807814457e-17
+    ],
+    "previous_best": 0.12067774820067693,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 26,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027138051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12067774820118393,
+    "solution": [
+      7.815414981848789e-13,
+      3.1242369802342296e-13,
+      1.910055447140735e-12,
+      4.345517001791421e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12067774820067707,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      0.0,
+      5.551115123125783e-17,
+      0.0
+    ],
+    "previous_best": 0.12067774820067693,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 26,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027138051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.12067774820118393,
+    "solution": [
+      7.815414981848789e-13,
+      3.1242369802342296e-13,
+      1.910055447140735e-12,
+      4.345517001791421e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.12067774820067707,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      0.0,
+      5.551115123125783e-17,
+      0.0
+    ],
+    "previous_best": 0.12067774820067693,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 27,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027139050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 335,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11896576656268687,
+    "solution": [
+      3.9977743337971106e-13,
+      4.837172329352768e-13,
+      3.28875815469587e-13,
+      1.2825018824713652e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11896576656247335,
+    "polish_solution": [
+      4.163336342344337e-17,
+      1.8735013540549517e-16,
+      9.71445146547012e-17,
+      6.938893903907228e-17
+    ],
+    "previous_best": 0.11896576656247329,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 27,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027139051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 302,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11896576656314808,
+    "solution": [
+      8.629763570411342e-13,
+      4.1745079615296277e-13,
+      1.3870987691788628e-12,
+      8.0551815218044e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11896576656247335,
+    "polish_solution": [
+      0.0,
+      9.020562075079397e-17,
+      1.1102230246251565e-16,
+      9.71445146547012e-17
+    ],
+    "previous_best": 0.11896576656247329,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 27,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027139051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 302,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11896576656314808,
+    "solution": [
+      8.629763570411342e-13,
+      4.1745079615296277e-13,
+      1.3870987691788628e-12,
+      8.0551815218044e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11896576656247335,
+    "polish_solution": [
+      0.0,
+      9.020562075079397e-17,
+      1.1102230246251565e-16,
+      9.71445146547012e-17
+    ],
+    "previous_best": 0.11896576656247329,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 28,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027140040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 308,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04903333484936584,
+    "solution": [
+      2.248132235926903e-13,
+      3.9161729414871616e-13,
+      9.56255907791359e-13,
+      8.150563557407509e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.04903333484936584,
+    "polish_solution": [
+      2.248132235926903e-13,
+      3.9161729414871616e-13,
+      9.56255907791359e-13,
+      8.150563557407509e-13
+    ],
+    "previous_best": 0.049033334849287985,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 28,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027140050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 323,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1174192207233538,
+    "solution": [
+      4.851466450794817e-13,
+      8.408135299120545e-13,
+      3.254334302038586e-12,
+      1.0685896612017132e-14
+    ],
+    "polish_success": true,
+    "polish_value": 0.1174192207228622,
+    "polish_solution": [
+      9.020562075079397e-17,
+      2.0816681711721685e-16,
+      1.3183898417423734e-16,
+      5.551115123125783e-17
+    ],
+    "previous_best": 0.1174192207228622,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 28,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027140052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 302,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11741922072376614,
+    "solution": [
+      1.3642212359776806e-12,
+      3.8462288909357767e-13,
+      4.204449288724987e-12,
+      5.117302415147407e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.1174192207228622,
+    "polish_solution": [
+      3.469446951953614e-17,
+      1.3877787807814457e-17,
+      6.938893903907228e-18,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.1174192207228622,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 29,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027141041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04816538252728806,
+    "solution": [
+      1.5900475380803414e-12,
+      4.5210363230907546e-13,
+      2.4252891361875584e-12,
+      5.1160395364568956e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04816538252698873,
+    "polish_solution": [
+      0.0,
+      0.0,
+      6.938893903907228e-18,
+      0.0
+    ],
+    "previous_best": 0.04816538252698873,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 29,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027141041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04816538252728806,
+    "solution": [
+      1.5900475380803414e-12,
+      4.5210363230907546e-13,
+      2.4252891361875584e-12,
+      5.1160395364568956e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04816538252698873,
+    "polish_solution": [
+      0.0,
+      0.0,
+      6.938893903907228e-18,
+      0.0
+    ],
+    "previous_best": 0.04816538252698873,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 29,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027141042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 324,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04816538252705797,
+    "solution": [
+      3.3486408090865893e-13,
+      2.3397950243975174e-14,
+      6.654121698090876e-13,
+      1.3185980085594906e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04816538252705797,
+    "polish_solution": [
+      3.3486408090865893e-13,
+      2.3397950243975174e-14,
+      6.654121698090876e-13,
+      1.3185980085594906e-12
+    ],
+    "previous_best": 0.04816538252698873,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 29,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027141050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 318,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11602329087237409,
+    "solution": [
+      6.071948499553059e-13,
+      5.020497906293997e-13,
+      6.681113995377075e-13,
+      4.319954116649427e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11602329087192698,
+    "polish_solution": [
+      0.0,
+      3.469446951953614e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11602329087192698,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 29,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027141051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1160232908726712,
+    "solution": [
+      1.0438941377977073e-12,
+      1.3541390231353034e-12,
+      1.3808398868775384e-15,
+      7.75803726815738e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11602329087192698,
+    "polish_solution": [
+      3.469446951953614e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11602329087192698,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 29,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027141051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1160232908726712,
+    "solution": [
+      1.0438941377977073e-12,
+      1.3541390231353034e-12,
+      1.3808398868775384e-15,
+      7.75803726815738e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11602329087192698,
+    "polish_solution": [
+      3.469446951953614e-17,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11602329087192698,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 29,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027141052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11602329087217428,
+    "solution": [
+      1.7284090825242515e-13,
+      4.131556208264442e-13,
+      7.036385363257125e-13,
+      1.9506965487359196e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11602329087192698,
+    "polish_solution": [
+      6.245004513516506e-17,
+      0.0,
+      2.0816681711721685e-17,
+      0.0
+    ],
+    "previous_best": 0.11602329087192698,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 30,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027142040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.047367402272433946,
+    "solution": [
+      1.2952139361033232e-13,
+      2.2559246137809907e-12,
+      2.2225138396336774e-12,
+      5.572091399397294e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04736740227212108,
+    "polish_solution": [
+      0.0,
+      1.3877787807814457e-17,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.04736740227212108,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 30,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027142042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04736740227226358,
+    "solution": [
+      1.09426356864617e-12,
+      4.5226322686886533e-13,
+      1.0050155152541151e-12,
+      5.576511474814083e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.04736740227212108,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.04736740227212108,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 30,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027142050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1147635994570599,
+    "solution": [
+      1.4514917046071218e-12,
+      3.5062230896443225e-14,
+      2.0925206012378794e-12,
+      6.487060888460405e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11476359945626265,
+    "polish_solution": [
+      4.163336342344337e-17,
+      1.457167719820518e-16,
+      8.326672684688674e-17,
+      1.3877787807814457e-17
+    ],
+    "previous_best": 0.11476359945626265,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 30,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027142051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 317,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11476359945684664,
+    "solution": [
+      9.424128144530641e-13,
+      1.701673524312497e-12,
+      6.557879239643682e-13,
+      2.0812102041745106e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11476359945626265,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11476359945626265,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 30,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027142051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 317,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11476359945684664,
+    "solution": [
+      9.424128144530641e-13,
+      1.701673524312497e-12,
+      6.557879239643682e-13,
+      2.0812102041745106e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11476359945626265,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11476359945626265,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 30,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027142052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 302,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11476359945691927,
+    "solution": [
+      5.577829864655826e-13,
+      3.477912402516381e-13,
+      2.652836283978388e-12,
+      4.9769979804104025e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11476359945626265,
+    "polish_solution": [
+      3.469446951953614e-17,
+      1.249000902703301e-16,
+      1.3877787807814457e-17,
+      0.0
+    ],
+    "previous_best": 0.11476359945626265,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027143040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 305,
+    "message": "Optimization terminated successfully.",
+    "value": 0.046635340677084164,
+    "solution": [
+      1.0868389521689892e-13,
+      1.0401401961956935e-13,
+      4.838872358359225e-12,
+      2.2089829965210583e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.046635340676841976,
+    "polish_solution": [
+      6.938893903907228e-18,
+      6.938893903907228e-18,
+      6.938893903907228e-18,
+      0.0
+    ],
+    "previous_best": 0.046635340676841976,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027143041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 314,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04663534067699247,
+    "solution": [
+      4.47128445379974e-13,
+      1.2395293125244677e-12,
+      1.8971629822672753e-13,
+      2.2421092760183114e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.046635340676841976,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-18,
+      3.469446951953614e-17,
+      4.85722573273506e-17
+    ],
+    "previous_best": 0.046635340676841976,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027143041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 314,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04663534067699247,
+    "solution": [
+      4.47128445379974e-13,
+      1.2395293125244677e-12,
+      1.8971629822672753e-13,
+      2.2421092760183114e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.046635340676841976,
+    "polish_solution": [
+      0.0,
+      6.938893903907228e-18,
+      3.469446951953614e-17,
+      4.85722573273506e-17
+    ],
+    "previous_best": 0.046635340676841976,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027143042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04663534067696458,
+    "solution": [
+      3.2631536361904523e-13,
+      1.0088457846890719e-13,
+      1.96037630573187e-12,
+      9.860029459574093e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.046635340676841976,
+    "polish_solution": [
+      0.0,
+      0.0,
+      6.938893903907228e-18,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.046635340676841976,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027143050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 309,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11362732041097587,
+    "solution": [
+      7.019107517436396e-13,
+      6.484326964262266e-13,
+      1.0439357711611308e-12,
+      1.1794662468922468e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11362732041058125,
+    "polish_solution": [
+      0.0,
+      3.469446951953614e-17,
+      0.0,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.11362732041058125,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027143051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 325,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11362732041130691,
+    "solution": [
+      1.985148156968819e-13,
+      1.7084389458688065e-12,
+      4.089971417098326e-12,
+      4.966721478538716e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11362732041058125,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11362732041058125,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027143051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 325,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11362732041130691,
+    "solution": [
+      1.985148156968819e-13,
+      1.7084389458688065e-12,
+      4.089971417098326e-12,
+      4.966721478538716e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11362732041058125,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11362732041058125,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 31,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027143052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1136273204115531,
+    "solution": [
+      9.677536549901333e-13,
+      4.4413153710287645e-12,
+      6.274425423669072e-13,
+      1.3586770597484588e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11362732041058125,
+    "polish_solution": [
+      0.0,
+      3.469446951953614e-17,
+      0.0,
+      2.0816681711721685e-17
+    ],
+    "previous_best": 0.11362732041058125,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 32,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027144040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 322,
+    "message": "Optimization terminated successfully.",
+    "value": 0.045965540939603027,
+    "solution": [
+      7.627232179174825e-14,
+      5.735759089908754e-13,
+      8.514369764789365e-13,
+      1.1888198758747137e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.045965540939603027,
+    "polish_solution": [
+      7.627232179174825e-14,
+      5.735759089908754e-13,
+      8.514369764789365e-13,
+      1.1888198758747137e-12
+    ],
+    "previous_best": 0.045965540939505584,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 32,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027144041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.045965540939714014,
+    "solution": [
+      3.671993265008666e-13,
+      1.2791712133974897e-12,
+      2.02889094413905e-12,
+      1.3022846689914047e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.045965540939505584,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.045965540939505584,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 32,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027144041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.045965540939714014,
+    "solution": [
+      3.671993265008666e-13,
+      1.2791712133974897e-12,
+      2.02889094413905e-12,
+      1.3022846689914047e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.045965540939505584,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.045965540939505584,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 32,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027144042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 315,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04596554093976447,
+    "solution": [
+      1.3978401769421112e-12,
+      1.851400976971007e-12,
+      7.9582174183912e-13,
+      9.482345464384423e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.045965540939505584,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      6.938893903907228e-18
+    ],
+    "previous_best": 0.045965540939505584,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 32,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027144050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11260294977170865,
+    "solution": [
+      4.7802040104016896e-14,
+      5.622169396701793e-13,
+      8.668829543090339e-13,
+      1.6417492365583541e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11260294977143843,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      4.85722573273506e-17,
+      4.163336342344337e-17
+    ],
+    "previous_best": 0.11260294977143843,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 32,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027144051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 301,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11260294977192656,
+    "solution": [
+      3.5348807214674594e-13,
+      6.394884621840902e-14,
+      1.4418813365502103e-12,
+      4.964070821067423e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11260294977143843,
+    "polish_solution": [
+      4.85722573273506e-17,
+      8.326672684688674e-17,
+      1.3183898417423734e-16,
+      1.0408340855860843e-16
+    ],
+    "previous_best": 0.11260294977143843,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 32,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027144051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 301,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11260294977192656,
+    "solution": [
+      3.5348807214674594e-13,
+      6.394884621840902e-14,
+      1.4418813365502103e-12,
+      4.964070821067423e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11260294977143843,
+    "polish_solution": [
+      4.85722573273506e-17,
+      8.326672684688674e-17,
+      1.3183898417423734e-16,
+      1.0408340855860843e-16
+    ],
+    "previous_best": 0.11260294977143843,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 33,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027145050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 320,
+    "message": "Optimization terminated successfully.",
+    "value": 0.111680155540276,
+    "solution": [
+      5.693362448155881e-14,
+      9.805350975611304e-14,
+      4.0494690933812194e-13,
+      2.694122702706636e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11168015554006137,
+    "polish_solution": [
+      6.938893903907228e-18,
+      0.0,
+      0.0,
+      4.85722573273506e-17
+    ],
+    "previous_best": 0.11168015554006137,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 33,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027145052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 303,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1116801555407517,
+    "solution": [
+      1.1439529878920496e-12,
+      4.506811590587745e-14,
+      1.2104345303853847e-12,
+      6.013328723852851e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11168015554006137,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11168015554006137,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 1,
+    "kind": "priced",
+    "seed": 2027146010,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04398661946725792,
+    "solution": [
+      9.325644423352486e-12,
+      2.838194956833462e-12,
+      7.386452560709245e-12,
+      5.430808580619839e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.043986619466822655,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.043986619466822655,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 1,
+    "kind": "feasible",
+    "seed": 2027146012,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 302,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04398661946697688,
+    "solution": [
+      5.5874124771371214e-12,
+      8.432213260967103e-13,
+      3.443217932996845e-13,
+      4.465872116554692e-14
+    ],
+    "polish_success": true,
+    "polish_value": 0.043986619466822655,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.043986619466822655,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027146040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.0447997347634594,
+    "solution": [
+      2.9196783879470445e-13,
+      1.974448382568994e-12,
+      1.6592421880901043e-12,
+      1.938761651221199e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.044799734763193454,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.044799734763193454,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027146042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 323,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04479973476348459,
+    "solution": [
+      6.972200594645983e-14,
+      3.015157568064808e-13,
+      4.945856224569667e-12,
+      2.082667371894331e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04479973476319347,
+    "polish_solution": [
+      1.3877787807814457e-17,
+      6.245004513516506e-17,
+      1.3183898417423734e-16,
+      6.591949208711867e-17
+    ],
+    "previous_best": 0.044799734763193454,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027146050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 309,
+    "message": "Optimization terminated successfully.",
+    "value": 0.1108496474124799,
+    "solution": [
+      7.108202915162565e-14,
+      2.1388862903037875e-12,
+      5.577552308899669e-13,
+      5.4525828296903e-14
+    ],
+    "polish_success": true,
+    "polish_value": 0.11084964741205902,
+    "polish_solution": [
+      0.0,
+      1.3877787807814457e-17,
+      2.0816681711721685e-17,
+      1.3877787807814457e-17
+    ],
+    "previous_best": 0.11084964741205902,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027146051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 319,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11084964741258399,
+    "solution": [
+      1.0139805661779633e-12,
+      1.9416412921913206e-13,
+      1.9929682903985224e-12,
+      1.2008311012223771e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11084964741205902,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11084964741205902,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027146051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 319,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11084964741258399,
+    "solution": [
+      1.0139805661779633e-12,
+      1.9416412921913206e-13,
+      1.9929682903985224e-12,
+      1.2008311012223771e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11084964741205902,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11084964741205902,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 34,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027146052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 306,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11084964741308835,
+    "solution": [
+      1.6071866060229922e-12,
+      1.0438178099647644e-13,
+      4.45407599691805e-14,
+      1.2225387369113605e-11
+    ],
+    "polish_success": true,
+    "polish_value": 0.11084964741205902,
+    "polish_solution": [
+      2.7755575615628914e-17,
+      0.0,
+      1.457167719820518e-16,
+      8.326672684688674e-17
+    ],
+    "previous_best": 0.11084964741205902,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027147040,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 310,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04429790868150053,
+    "solution": [
+      5.152198112590156e-13,
+      7.93878851546026e-13,
+      2.1033660924096864e-12,
+      8.005263119059691e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.04429790868128795,
+    "polish_solution": [
+      2.0816681711721685e-17,
+      0.0,
+      4.163336342344337e-17,
+      2.42861286636753e-17
+    ],
+    "previous_best": 0.04429790868128793,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 4,
+    "kind": "priced",
+    "seed": 2027147041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 316,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04429790868146359,
+    "solution": [
+      3.4371810953004456e-13,
+      1.51865325870304e-12,
+      1.6900369992356445e-13,
+      1.5870429970199496e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04429790868128793,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.04429790868128793,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027147041,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 316,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04429790868146359,
+    "solution": [
+      3.4371810953004456e-13,
+      1.51865325870304e-12,
+      1.6900369992356445e-13,
+      1.5870429970199496e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04429790868128793,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.04429790868128793,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 4,
+    "kind": "feasible",
+    "seed": 2027147042,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 324,
+    "message": "Optimization terminated successfully.",
+    "value": 0.04429790868159992,
+    "solution": [
+      3.5146885402070893e-13,
+      1.209816968827937e-12,
+      1.844815966656199e-12,
+      4.825410904185645e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.04429790868128793,
+    "polish_solution": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.04429790868128793,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027147050,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 312,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11010306219054151,
+    "solution": [
+      8.19982970412525e-13,
+      7.315467676072274e-13,
+      1.428211715559513e-12,
+      8.885392421831284e-13
+    ],
+    "polish_success": true,
+    "polish_value": 0.11010306219003775,
+    "polish_solution": [
+      1.1102230246251565e-16,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "previous_best": 0.11010306219003768,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 5,
+    "kind": "priced",
+    "seed": 2027147051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 321,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11010306219038933,
+    "solution": [
+      2.9331398421206245e-13,
+      7.184461359166505e-13,
+      5.796196855811786e-13,
+      1.8931869960603365e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11010306219003782,
+    "polish_solution": [
+      4.85722573273506e-17,
+      1.5959455978986625e-16,
+      1.249000902703301e-16,
+      1.3877787807814457e-17
+    ],
+    "previous_best": 0.11010306219003768,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027147051,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 321,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11010306219038933,
+    "solution": [
+      2.9331398421206245e-13,
+      7.184461359166505e-13,
+      5.796196855811786e-13,
+      1.8931869960603365e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11010306219003782,
+    "polish_solution": [
+      4.85722573273506e-17,
+      1.5959455978986625e-16,
+      1.249000902703301e-16,
+      1.3877787807814457e-17
+    ],
+    "previous_best": 0.11010306219003768,
+    "further_improvement_found": 0.0
+  },
+  {
+    "scenario": "screen",
+    "t": 35,
+    "i": 5,
+    "kind": "feasible",
+    "seed": 2027147052,
+    "initial_cap": 300,
+    "extended_cap": 1500,
+    "success": true,
+    "nit": 304,
+    "message": "Optimization terminated successfully.",
+    "value": 0.11010306219042143,
+    "solution": [
+      4.770905892570454e-13,
+      4.951941634523394e-13,
+      1.8982038163528614e-13,
+      3.1871449923670525e-12
+    ],
+    "polish_success": true,
+    "polish_value": 0.11010306219003782,
+    "polish_solution": [
+      8.326672684688674e-17,
+      2.0122792321330962e-16,
+      6.938893903907228e-17,
+      0.0
+    ],
+    "previous_best": 0.11010306219003768,
+    "further_improvement_found": 0.0
+  }
+]

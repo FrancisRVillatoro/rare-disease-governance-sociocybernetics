@@ -2,9 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code or data, please cite the archived Zenodo software release."
 title: "Reproducibility code and data for A socio-cybernetic architecture for rare-disease governance based on social systems theory"
 type: software
-version: 1.0.0
-date-released: 2026-09-16
-doi: 10.5281/zenodo.22787139
+version: 1.1.0
 authors:
   - family-names: "Fernández-Vilas"
     given-names: "Enrique"
@@ -25,7 +23,7 @@ authors:
     given-names: "Juan R."
     orcid: "https://orcid.org/0000-0003-1140-7351"
 repository-code: "https://github.com/FrancisRVillatoro/rare-disease-governance-sociocybernetics"
-url: "https://doi.org/10.5281/zenodo.22787139"
+url: "https://github.com/FrancisRVillatoro/rare-disease-governance-sociocybernetics"
 license: MIT
 keywords:
   - rare diseases
@@ -34,7 +32,7 @@ keywords:
   - generalized Nash equilibrium
   - reproducibility
 abstract: >-
-  Python code and frozen numerical outputs supporting the
+  Python code and frozen numerical outputs including unregularised optimality checks supporting the
   reproducibility of the stylised computational pilot associated with the
   manuscript "A socio-cybernetic architecture for rare-disease governance based
   on social systems theory". The repository does not contain the manuscript or

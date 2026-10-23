@@ -1,0 +1,12 @@
+{
+  "audit_date": "2026-10-20",
+  "source_repository": "FrancisRVillatoro/rare-disease-governance-sociocybernetics",
+  "source_tag": "v1.0.0",
+  "source_commit": "b84219f6f338253b7fff58616d12acc9fad1aca8",
+  "version_doi": "10.5281/zenodo.22787139",
+  "pilot_git_blob_sha1": "680f138228b3f7464896d8377cede34178b7e55e",
+  "pilot_sha256": "0a9aae77f29ad7a6ab7a858e6fae9e9b40a8b956e4865606cf75a291787b07dd",
+  "reference_results_note": "The nominal JSON is a differently indented copy of the numeric reference values checked against v1.0.0/reference_results/v16_results_A.json via GitHub. All nominal summary fields used by this audit match exactly.",
+  "unchanged": "No model coefficients, constraints, weights, horizons, nominal stopping tolerances or published trajectories were altered. No remote write was made.",
+  "scope": "An additive local audit only; no new public release."
+}

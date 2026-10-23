@@ -1,0 +1,8 @@
+{
+  "initial_cap": 300,
+  "extended_cap": 1500,
+  "number_to_extend": 191,
+  "reason": "Complete searches flagged by generation limit; no physical or coordinator parameters changed.",
+  "seeds": "Same per-problem DE seeds as initial audit",
+  "tolerances": "Unchanged: tol=1e-11, atol=1e-13"
+}

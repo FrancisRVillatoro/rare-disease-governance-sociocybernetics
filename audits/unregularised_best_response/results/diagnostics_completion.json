@@ -1,0 +1,100 @@
+{
+  "initial_cap": 300,
+  "extended_cap": 1500,
+  "number_to_extend": 191,
+  "reason": "Complete searches flagged by generation limit; no physical or coordinator parameters changed.",
+  "seeds": "Same per-problem DE seeds as initial audit",
+  "tolerances": "Unchanged: tol=1e-11, atol=1e-13",
+  "seconds": 92.42194865500005,
+  "extended_success": 191,
+  "extended_cap_hits": 0,
+  "max_generations": 391,
+  "extended_polish_failures": 0,
+  "max_further_improvement": 8.881784197001252e-16,
+  "gain_flags_over_1e_6": [
+    {
+      "scenario": "screen",
+      "t": 1,
+      "actor": "R",
+      "unpriced_gain": 1.5575415828195105e-06,
+      "same_profile_priced_gain": 9.061635265121635e-12,
+      "price_of_extra_resource": 1.5575325211842454e-06,
+      "price_times_available_slack_bound": 1.5575325243536838e-06,
+      "identity_residual": 0.0,
+      "max_abs_control_change": 4.5287893862475115e-07,
+      "objective_shift_due_to_feasible_profile_projection": 5.195764823717752e-06
+    },
+    {
+      "scenario": "screen",
+      "t": 1,
+      "actor": "HTA",
+      "unpriced_gain": 1.4565094303975457e-06,
+      "same_profile_priced_gain": -1.0102309396974175e-07,
+      "price_of_extra_resource": 1.5575325243672874e-06,
+      "price_times_available_slack_bound": 1.5575325243536838e-06,
+      "identity_residual": 0.0,
+      "max_abs_control_change": 4.528789386594456e-07,
+      "objective_shift_due_to_feasible_profile_projection": 5.209061097133372e-06
+    },
+    {
+      "scenario": "screen",
+      "t": 1,
+      "actor": "V",
+      "unpriced_gain": 1.5575415925894731e-06,
+      "same_profile_priced_gain": 9.068238024376578e-12,
+      "price_of_extra_resource": 1.5575325243514487e-06,
+      "price_times_available_slack_bound": 1.5575325243536838e-06,
+      "identity_residual": 0.0,
+      "max_abs_control_change": 4.5287893865597617e-07,
+      "objective_shift_due_to_feasible_profile_projection": 4.833833870954152e-06
+    },
+    {
+      "scenario": "screen",
+      "t": 1,
+      "actor": "O",
+      "unpriced_gain": 1.55754157749044e-06,
+      "same_profile_priced_gain": 9.053087062404537e-12,
+      "price_of_extra_resource": 1.5575325244033776e-06,
+      "price_times_available_slack_bound": 1.5575325243536838e-06,
+      "identity_residual": 0.0,
+      "max_abs_control_change": 4.528789386490373e-07,
+      "objective_shift_due_to_feasible_profile_projection": 5.278994589907882e-06
+    }
+  ],
+  "feasible_gain_decomposition": {
+    "plain": {
+      "max_same_profile_priced_gain": 1.9208787005453587e-08,
+      "max_price_times_available_slack": 0.0,
+      "max_incumbent_objective_shift_due_projection": 0.0,
+      "worst_gain": {
+        "scenario": "plain",
+        "t": 9,
+        "actor": "H",
+        "unpriced_gain": 1.9208787005453587e-08,
+        "same_profile_priced_gain": 1.9208787005453587e-08,
+        "price_of_extra_resource": 0.0,
+        "price_times_available_slack_bound": 0.0,
+        "identity_residual": 0.0,
+        "max_abs_control_change": 2.3374918290627184e-05,
+        "objective_shift_due_to_feasible_profile_projection": 0.0
+      }
+    },
+    "screen": {
+      "max_same_profile_priced_gain": 2.1373133707314196e-08,
+      "max_price_times_available_slack": 1.5575325243536838e-06,
+      "max_incumbent_objective_shift_due_projection": 8.411883633208106e-06,
+      "worst_gain": {
+        "scenario": "screen",
+        "t": 1,
+        "actor": "V",
+        "unpriced_gain": 1.5575415925894731e-06,
+        "same_profile_priced_gain": 9.068238024376578e-12,
+        "price_of_extra_resource": 1.5575325243514487e-06,
+        "price_times_available_slack_bound": 1.5575325243536838e-06,
+        "identity_residual": 0.0,
+        "max_abs_control_change": 4.5287893865597617e-07,
+        "objective_shift_due_to_feasible_profile_projection": 4.833833870954152e-06
+      }
+    }
+  }
+}
