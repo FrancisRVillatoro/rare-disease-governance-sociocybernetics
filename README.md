@@ -24,11 +24,10 @@ system, or proof of existence/uniqueness of a nonlinear game equilibrium.
 
 - **v1.0.0 (16 September 2026):** frozen original pilot, comparator and sensitivity
   calculations. **Version DOI:** https://doi.org/10.5281/zenodo.22787139
-- **v1.1.0 (release candidate, October 2026):** cumulative package, adding the unregularised
+- **v1.1.0 (24 October 2026):** cumulative package adding unregularised
   post-convergence best-response numerical evidence and executable provenance
-  for S6 and the S11 model-variant calculations. Its **version DOI is assigned
-  by Zenodo after the v1.1.0 GitHub Release is published**. Do not use the
-  v1.0.0 DOI to cite the additions in v1.1.0.
+  for S6 and S11 model-variant calculations. **Version DOI:**
+  https://doi.org/10.5281/zenodo.23614604. Use this DOI to cite the added audits.
 - **All-version concept DOI:** https://doi.org/10.5281/zenodo.22787138
 
 ## Contents
@@ -98,6 +97,6 @@ not demonstrate redistribution or guaranteed floor satisfaction.
 ## Citation and licence
 
 See `CITATION.cff` for the six creators and licence (MIT). For the original
-v1.0.0 computations use DOI **10.5281/zenodo.22787139**. When citing the
-new audit, use the v1.1.0 version DOI once Zenodo has issued it. The concept
+v1.0.0 computations use DOI **10.5281/zenodo.22787139**. For the
+additional S6/S11/S15 audits, cite v1.1.0 DOI **10.5281/zenodo.23614604**. The concept
 DOI **10.5281/zenodo.22787138** represents the version family.
