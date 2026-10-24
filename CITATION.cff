@@ -3,6 +3,8 @@ message: "If you use this code or data, please cite the archived Zenodo software
 title: "Reproducibility code and data for A socio-cybernetic architecture for rare-disease governance based on social systems theory"
 type: software
 version: 1.1.0
+date-released: 2026-10-24
+doi: 10.5281/zenodo.23614604
 authors:
   - family-names: "Fernández-Vilas"
     given-names: "Enrique"
@@ -23,7 +25,7 @@ authors:
     given-names: "Juan R."
     orcid: "https://orcid.org/0000-0003-1140-7351"
 repository-code: "https://github.com/FrancisRVillatoro/rare-disease-governance-sociocybernetics"
-url: "https://github.com/FrancisRVillatoro/rare-disease-governance-sociocybernetics"
+url: "https://doi.org/10.5281/zenodo.23614604"
 license: MIT
 keywords:
   - rare diseases
